@@ -1,0 +1,7 @@
+jupyter
+instructor
+instructor[groq]
+groq
+openai
+loguru
+mistralai
